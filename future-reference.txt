@@ -1,0 +1,9 @@
+I made this tic tac toe for practice with tailwindcss and vanilla js.
+There might be some bugs but I'm satisfied about it at this moment.
+For future reference-
+
+1. I think a there's another way to get the winner. By taking the adding cross and circle place index to an array and comparing them with winning condition could be a good idea. Maybe look into it in future.
+2. I really want to add some animations to it.
+3. Need to add a play again button.
+4. A score board with win draw and lose should be there too.
+5. The code could be a little bit cleaner if i were more skilled.
